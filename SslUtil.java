@@ -1,4 +1,4 @@
-package cn.chaosuan.mqtt;
+package cn.demo.mqtt;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStreamReader;
