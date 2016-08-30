@@ -1,4 +1,4 @@
-package cn.chaosuan.mqtt;
+package cn.demo.mqtt;
 
 import org.eclipse.paho.client.mqttv3.MqttClient;
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
